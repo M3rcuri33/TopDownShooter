@@ -915,3 +915,110 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.10.23-15.29.29:738][ 32]AssetCheck: New page: Asset Save: multiple assets
 [2024.10.23-15.29.29:738][ 32]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_BuiltData.Main_BuiltData
 [2024.10.23-15.29.29:738][ 32]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2024.10.23-15.30.27:662][470]Cmd: TRANSACTION UNDO
+[2024.10.23-15.30.27:662][470]LogEditorTransaction: Undo Move Actors
+[2024.10.23-15.30.28:511][515]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2024.10.23-15.30.29:327][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.10.23-15.30.34:191][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../repozytoria/TopDownShooter/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.23-15.30.34:194][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.10.23-15.30.34:202][846]LogSavePackage: Moving '../../../../../../repozytoria/TopDownShooter/Saved/MainCCECC6824C654D6114B7F4BAF83F6225.tmp' to '../../../../../../repozytoria/TopDownShooter/Content/Levels/Main.umap'
+[2024.10.23-15.30.34:212][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_BuiltData" FILE="../../../../../../repozytoria/TopDownShooter/Content/Levels/Main_BuiltData.uasset" SILENT=true
+[2024.10.23-15.30.34:223][846]LogSavePackage: Moving '../../../../../../repozytoria/TopDownShooter/Saved/Main_BuiltData84439E364B6225585FAD71AEEFB44EE1.tmp' to '../../../../../../repozytoria/TopDownShooter/Content/Levels/Main_BuiltData.uasset'
+[2024.10.23-15.30.34:238][846]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.23-15.30.34:238][846]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_BuiltData.Main_BuiltData
+[2024.10.23-15.30.34:238][846]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2024.10.23-15.30.34:861][884]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.10.23-15.34.15:399][594]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.23-18.34.15:846][594]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.23-18.34.15:846][594]LogAudioMixer: Display: 1: FrontRight
+[2024.10.23-18.34.16:142][595]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.23-18.34.16:173][595]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.23-18.34.16:173][595]LogAudioMixer: Display: 1: FrontRight
+[2024.10.23-18.34.16:305][596]LogHttp: Warning: 000001B084D31600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2A51AFD-44E2-F4ED-51F8-619B5D268626%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=122ad0014e192f7072ad82b709619572%7C7209b1f90869420086bbaf8346b761c9%7Cb509e2e3-47af-4b2c-a3f0-b4f72131bd6b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.10.23-18.34.16:305][596]LogHttp: Warning: 000001B084D31600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.23-18.34.16:305][596]LogHttp: Warning: 000001B084D31600: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2024.10.23-18.34.16:305][596]LogHttp: Warning: 000001B084D31600: libcurl info message cache 1 (Closing connection 0)
+[2024.10.23-18.34.16:305][596]LogHttp: Warning: 000001B084D31600: libcurl info message cache 2 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.10.23-18.34.16:305][596]LogHttp: Warning: 000001B084D31600: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.23-18.34.16:305][596]LogHttp: Warning: 000001B084D31600: libcurl info message cache 4 (Closing connection 1)
+[2024.10.23-18.34.16:305][596]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2A51AFD-44E2-F4ED-51F8-619B5D268626%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=122ad0014e192f7072ad82b709619572%7C7209b1f90869420086bbaf8346b761c9%7Cb509e2e3-47af-4b2c-a3f0-b4f72131bd6b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.23-18.34.16:524][597]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.23-18.34.22:899][597]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2024.10.23-18.34.23:187][598]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2024.10.23-18.34.23:187][598]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2024.10.23-18.34.23:187][598]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2024.10.23-18.34.23:240][598]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.23-18.34.25:100][604]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2024.10.23-18.34.25:100][604]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2024.10.23-18.34.25:100][604]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2024.10.23-18.34.25:256][604]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.23-21.41.19:703][608]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2024.10.23-21.41.19:703][608]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2024.10.23-21.41.19:703][608]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2024.10.23-21.41.19:878][609]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.23-21.41.19:879][609]LogHttp: Warning: 000001B084D31600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2A51AFD-44E2-F4ED-51F8-619B5D268626%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=122ad0014e192f7072ad82b709619572%7C7209b1f90869420086bbaf8346b761c9%7Cb509e2e3-47af-4b2c-a3f0-b4f72131bd6b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.10.23-21.41.19:879][609]LogHttp: Warning: 000001B084D31600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.23-21.41.19:879][609]LogHttp: Warning: 000001B084D31600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.23-21.41.19:879][609]LogHttp: Warning: 000001B084D31600: libcurl info message cache 1 (Closing connection 2)
+[2024.10.23-21.41.20:054][609]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.23-21.41.20:535][609]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.23-21.41.20:535][609]LogAudioMixer: Display: 1: FrontRight
+[2024.10.23-21.41.22:125][610]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2A51AFD-44E2-F4ED-51F8-619B5D268626%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=122ad0014e192f7072ad82b709619572%7C7209b1f90869420086bbaf8346b761c9%7Cb509e2e3-47af-4b2c-a3f0-b4f72131bd6b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.23-21.41.22:138][610]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.23-21.41.22:172][610]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.23-21.41.22:172][610]LogAudioMixer: Display: 1: FrontRight
+[2024.10.23-21.41.22:474][611]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2024.10.23-21.41.22:474][611]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2024.10.23-21.41.22:474][611]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2024.10.23-21.41.22:819][612]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.23-21.41.24:690][618]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2024.10.23-21.41.24:690][618]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2024.10.23-21.41.24:690][618]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2024.10.23-21.41.24:828][618]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.23-21.41.26:707][624]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2024.10.23-21.41.26:707][624]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2024.10.23-21.41.26:707][624]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2024.10.23-21.41.26:843][624]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.23-21.41.28:721][630]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2024.10.23-21.41.28:721][630]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2024.10.23-21.41.28:721][630]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2024.10.23-21.41.28:857][630]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.23-21.41.30:735][636]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2024.10.23-21.41.30:735][636]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2024.10.23-21.41.30:735][636]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2024.10.23-21.41.30:871][636]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.23-21.41.32:751][642]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2024.10.23-21.41.32:751][642]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2024.10.23-21.41.32:751][642]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2024.10.23-21.41.32:890][642]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.23-21.41.34:768][648]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2024.10.23-21.41.34:768][648]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2024.10.23-21.41.34:768][648]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2024.10.23-21.41.34:895][648]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.23-21.41.36:683][654]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2024.10.23-21.41.36:683][654]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2024.10.23-21.41.36:683][654]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2024.10.23-21.41.36:909][654]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.23-21.42.05:314][739]LogHttp: Warning: 000001B084D31600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2A51AFD-44E2-F4ED-51F8-619B5D268626%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=122ad0014e192f7072ad82b709619572%7C7209b1f90869420086bbaf8346b761c9%7Cb509e2e3-47af-4b2c-a3f0-b4f72131bd6b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.10.23-21.42.05:314][739]LogHttp: Warning: 000001B084D31600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.23-21.42.05:314][739]LogHttp: Warning: 000001B084D31600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.23-21.42.05:314][739]LogHttp: Warning: 000001B084D31600: libcurl info message cache 1 (Closing connection 3)
+[2024.10.23-21.42.05:650][740]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2A51AFD-44E2-F4ED-51F8-619B5D268626%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=122ad0014e192f7072ad82b709619572%7C7209b1f90869420086bbaf8346b761c9%7Cb509e2e3-47af-4b2c-a3f0-b4f72131bd6b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.23-21.42.08:330][747]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.23-21.43.06:400][921]LogHttp: Warning: 000001B084D31600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2A51AFD-44E2-F4ED-51F8-619B5D268626%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=122ad0014e192f7072ad82b709619572%7C7209b1f90869420086bbaf8346b761c9%7Cb509e2e3-47af-4b2c-a3f0-b4f72131bd6b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.10.23-21.43.06:400][921]LogHttp: Warning: 000001B084D31600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.23-21.43.06:400][921]LogHttp: Warning: 000001B084D31600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.23-21.43.06:400][921]LogHttp: Warning: 000001B084D31600: libcurl info message cache 1 (Closing connection 4)
+[2024.10.23-21.43.06:736][922]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2A51AFD-44E2-F4ED-51F8-619B5D268626%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=122ad0014e192f7072ad82b709619572%7C7209b1f90869420086bbaf8346b761c9%7Cb509e2e3-47af-4b2c-a3f0-b4f72131bd6b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.23-21.44.20:162][141]LogD3D11RHI: Error: Device->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11UniformBuffer.cpp:150 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_REMOVED
+[2024.10.23-21.44.20:163][141]LogD3D11RHI: [Aftermath] GDynamicRHI=000001B0A198C880, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2024.10.23-21.44.20:163][141]LogWindows: Windows GetLastError: Operacja ukończona pomyślnie. (0)
+[2024.10.23-21.44.24:861][143]LogWindows: FPlatformMisc::RequestExit(0)
+[2024.10.23-21.44.24:861][143]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2024.10.23-21.44.24:861][143]LogCore: Engine exit requested (reason: Win RequestExit)
+[2024.10.23-21.44.24:861][143]LogWindows: FPlatformMisc::RequestExit(1)
+[2024.10.23-21.44.24:861][143]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2024.10.23-21.44.24:861][143]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2024.10.23-21.44.24:866][143]Log file closed, 10/23/24 23:44:24
